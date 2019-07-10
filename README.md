@@ -14,3 +14,5 @@ npm run serve
 
 This was a college project using the JavaScript Framework, Vue.js.
 We worked in groups of four to complete tasks. have AGILE meetings, use GitHub and working as a team. 
+
+git push master master
