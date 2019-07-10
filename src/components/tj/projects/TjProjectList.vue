@@ -119,6 +119,7 @@
   }
   
   .about-me {
+    margin-bottom: 50px;
     padding-top: 50px;
   }
   

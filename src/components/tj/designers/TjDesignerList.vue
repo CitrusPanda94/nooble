@@ -23,6 +23,20 @@
           <h4>Karol Banach</h4>
         </div>
       </div>
+       <div class='row'>
+        <div class='col-sm img-border projects'>
+          <img src='../../../assets/tj_img/static_profiles/Sandra-Walderhaug.jpeg'>
+          <h4>Sandra Walderhaug</h4>
+        </div>
+        <div class='col-sm img-border projects'>
+          <img src='../../../assets/tj_img/static_profiles/Lee-Eunjoo.jpeg'>
+          <h4>Lee Eunjoo</h4>
+        </div>
+        <div class='col-sm img-border projects'>
+          <img src='../../../assets/tj_img/static_profiles/Dist-lemoto.jpg'>
+          <h4>Dist lemoto</h4>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -76,5 +90,9 @@
     font-size: 16px;
     font-weight: 300;
     padding-top: 5px;
+  }
+
+  .row {
+    margin-bottom: 30px;
   }
 </style>
